@@ -1,0 +1,6 @@
+﻿using Practico_Bloque1_Gestor.Models;
+using Practico_Bloque1_Gestor.Repositories;
+
+Console.WriteLine("Hello, World!");
+
+IProductoRepository repo = new ProductoRepository();
